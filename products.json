@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Bluetooth Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 89.99,
+    "image": "https://images.pexels.com/photos/3394651/pexels-photo-3394651.jpeg"
+  },
+  {
+    "name": "Men's Denim Jacket",
+    "category": "Clothes",
+    "price": 59.00,
+    "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg"
+  },
+  {
+    "name": "Floral Body Mist",
+    "category": "Perfumes",
+    "price": 18.99,
+    "image": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg"
+  },
+  {
+    "name": "Compact Eyeshadow Palette",
+    "category": "Makeup",
+    "price": 22.00,
+    "image": "https://images.pexels.com/photos/3762873/pexels-photo-3762873.jpeg"
+  },
+  {
+    "name": "Stylish Leather Tote Bag",
+    "category": "Accessories",
+    "price": 120.00,
+    "image": "https://images.pexels.com/photos/5418926/pexels-photo-5418926.jpeg"
+  },
+  {
+    "name": "Women's Silk Scarf",
+    "category": "Clothes",
+    "price": 34.95,
+    "image": "https://images.pexels.com/photos/2635315/pexels-photo-2635315.jpeg"
+  },
+  {
+    "name": "Mini Indoor Plant Set",
+    "category": "Household",
+    "price": 27.99,
+    "image": "https://images.pexels.com/photos/3076899/pexels-photo-3076899.jpeg"
+  },
+  {
+    "name": "Matte Liquid Lipstick",
+    "category": "Makeup",
+    "price": 16.99,
+    "image": "https://images.pexels.com/photos/3373740/pexels-photo-3373740.jpeg"
+  },
+  {
+    "name": "Beige Wool Coat",
+    "category": "Clothes",
+    "price": 150.00,
+    "image": "https://images.pexels.com/photos/6311394/pexels-photo-6311394.jpeg"
+  },
+  {
+    "name": "Gold Rimmed Wine Glasses",
+    "category": "Household",
+    "price": 39.99,
+    "image": "https://images.pexels.com/photos/6261807/pexels-photo-6261807.jpeg"
+  },
+  {
+    "name": "Modern Table Lamp",
+    "category": "Household",
+    "price": 74.99,
+    "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg"
+  },
+  {
+    "name": "Fragrance Gift Set",
+    "category": "Perfumes",
+    "price": 65.50,
+    "image": "https://images.pexels.com/photos/965981/pexels-photo-965981.jpeg"
+  },
+  {
+    "name": "Patterned Tote Bag",
+    "category": "Accessories",
+    "price": 58.00,
+    "image": "https://images.pexels.com/photos/5418930/pexels-photo-5418930.jpeg"
+  },
+  {
+    "name": "Waterproof Mascara",
+    "category": "Makeup",
+    "price": 12.50,
+    "image": "https://images.pexels.com/photos/7679674/pexels-photo-7679674.jpeg"
+  },
+  {
+    "name": "Men's Slim Fit Trousers",
+    "category": "Clothes",
+    "price": 45.00,
+    "image": "https://images.pexels.com/photos/6311614/pexels-photo-6311614.jpeg"
+  },
+  {
+    "name": "Luxury Perfume Oil",
+    "category": "Perfumes",
+    "price": 90.00,
+    "image": "https://images.pexels.com/photos/965994/pexels-photo-965994.jpeg"
+  },
+  {
+    "name": "Smartphone Stand",
+    "category": "Electronics",
+    "price": 15.00,
+    "image": "https://images.pexels.com/photos/374720/pexels-photo-374720.jpeg"
+  },
+  {
+    "name": "Handcrafted Wooden Coasters",
+    "category": "Household",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Classic Aviator Sunglasses",
+    "category": "Accessories",
+    "price": 85.00,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Bluetooth Smart Speaker",
+    "category": "Electronics",
+    "price": 120.00,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Elegant Wristwatch",
+    "category": "Accessories",
+    "price": 250.00,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 45.00,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "category": "Electronics",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Essential Oil Diffuser",
+    "category": "Household",
+    "price": 39.99,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 49.99,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Stylish Sunglasses",
+    "category": "Accessories",
+    "price": 60.00,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Smart Fitness Tracker",
+    "category": "Electronics",
+    "price": 99.99,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 79.99,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Luxury Throw Blanket",
+    "category": "Household",
+    "price": 85.00,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Smart Home Hub",
+    "category": "Electronics",
+    "price": 199.99,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Organic Cotton Throw Blanket",
+    "category": "Household",
+    "price": 45.00,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Designer Handbag",
+    "category": "Accessories",
+    "price": 300.00,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Smartphone Camera Lens Kit",
+    "category": "Electronics",
+    "price": 35.00,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  },
+  {
+    "name": "Luxury Skincare Set",
+    "category": "Makeup",
+    "price": 120.00,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Luxury Skincare Set",
+    "category": "Makeup",
+    "price": 120.00,
+    "image": "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg"
+  },
+  {
+    "name": "Stylish Watch",
+    "category": "Accessories",
+    "price": 150.00,
+    "image": "https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg"
+  }
+]
